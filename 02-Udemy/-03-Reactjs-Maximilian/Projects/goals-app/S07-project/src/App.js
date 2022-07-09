@@ -31,7 +31,7 @@ const App = () => {
   );
 
   if (courseGoals.length > 0) {
-    content = (
+    content = ( 
       <CourseGoalList items={courseGoals} onDeleteItem={deleteItemHandler} />
     );
   }

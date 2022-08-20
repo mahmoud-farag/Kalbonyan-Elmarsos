@@ -11,9 +11,8 @@
 <br>
 ## Screenshots
 
-![App Screenshot](guru2.PNG)
-![Preview Certificate](screen2.png)
-![Preview Certificate](screen2.PNG)
+![Preview Certificate](screen1.png)
+![App Screenshot](screen2.png)
 
 ## Features
 

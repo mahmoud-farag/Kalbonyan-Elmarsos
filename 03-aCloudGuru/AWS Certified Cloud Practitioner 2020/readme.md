@@ -13,4 +13,4 @@
 - We know that you’re busy, so this course consists of 5-20 minute videos that let you learn at your own pace. Our video lessons keep it simple, making sure you grasp new concepts at the right level before moving on. Together, we’ll walk you through the AWS global infrastructure, each of the major services and their use-cases, security in the cloud, and the AWS pricing & billing models.
 
 #🥳🥳🥳
-![Preview Certificate](guru1.png)
+![Preview Certificate](guru1.PNG)

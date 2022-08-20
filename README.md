@@ -23,17 +23,17 @@
 <br />
 - ## Programming foundations path and HTML and CSS
 
-    - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
-    - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
-    - [x] ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](01-Linkedin-Learning/-03-Programming-Foundation-Object-Oriented-Design/)
-    - [x] ` in progress` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](01-Linkedin-Learning/-04-Programming-Foundations-Data-Structures/)
-    - [x] ` in progress` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](01-Linkedin-Learning/-05-Programming-Foundations-Algorithms/)
-    - [x] ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](01-Linkedin-Learning/-06-Programming-Foundations-Design-Patterns/)
-    - [x] ` in progress` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](01-Linkedin-Learning/-07-Programming-Foundations-Databases/)
-    - [x] ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
-    - [x] ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
-    - [x] ` in progress` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
-    - [x] ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
+    - [x] ` completed` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
+    - [x] ` completed` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
+    - [x] ` completed` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](01-Linkedin-Learning/-03-Programming-Foundation-Object-Oriented-Design/)
+    - [x] ` completed` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](01-Linkedin-Learning/-04-Programming-Foundations-Data-Structures/)
+    - [x] ` completed` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](01-Linkedin-Learning/-05-Programming-Foundations-Algorithms/)
+    - [x] ` completed` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](01-Linkedin-Learning/-06-Programming-Foundations-Design-Patterns/)
+    - [x] ` completed` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](01-Linkedin-Learning/-07-Programming-Foundations-Databases/)
+    - [x] ` completed` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
+    - [x] ` completed` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
+    - [x] ` completed` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
+    - [x] ` completed` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
 
     <br />
 
@@ -48,14 +48,14 @@
 ![100%](https://progress-bar.dev/0/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
-- [x]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
-- [x]  `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
+- [x]  `completed` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
+- [x]  `completed` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 ## ReactJs - Select one of these 2 courses to complete
-- [x]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
-- [x]  `in progress` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](/02-Udemy/-03-Reactjs-ZTM)
+- [x]  `completed` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
+- [x]  `completed` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](/02-Udemy/-03-Reactjs-ZTM)
 ## NodeJs - Select one of these 2 courses to complete
-- [x] `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
-- [x]  `in progress` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](./02-Udemy/-04-Nodejs-ZTM)
+- [x] `completed` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
+- [x]  `completed` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](./02-Udemy/-04-Nodejs-ZTM)
 
 <!--<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue"> -->
 <br />
@@ -65,9 +65,9 @@
 <!-- AWS -->
 <span id="AWS"></span>
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
-![0%](https://progress-bar.dev/0/?title=Done)
-- [ ]  `in progress` `7h` - 16 - [AWS Certified Cloud Practitioner 2020](03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%202020/)
-- [ ]  `in progress` `35h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
+![100%](https://progress-bar.dev/0/?title=Done)
+- [x]  `completed` `7h` - 16 - [AWS Certified Cloud Practitioner 2020](03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%202020/)
+- [x]  `completed` `35h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-42h-blue">
 <br />
@@ -78,5 +78,5 @@
 
 
 # Learn How to Make serverless web applications
-![0%](https://progress-bar.dev/0/?title=Done)
-- [ ] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
+![100%](https://progress-bar.dev/0/?title=Done)
+- [x] `completed` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)

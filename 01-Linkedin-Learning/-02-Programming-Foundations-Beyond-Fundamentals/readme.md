@@ -4,4 +4,4 @@
 ---
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
 <br>
-![Preview Certificate](byound-certificate.PNG)
+![Preview Certificate](beyondFundamentals.png)

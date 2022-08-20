@@ -22,4 +22,4 @@
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/)
 <br>
-![Preview Certificate](oop-certificate.PNG)
+![Preview Certificate](OOP.png)

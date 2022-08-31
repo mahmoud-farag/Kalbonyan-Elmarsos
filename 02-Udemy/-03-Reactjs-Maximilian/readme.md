@@ -83,7 +83,7 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo](https://react-course-section20.netlify.app/quotes)
+- [Live Demo](https://react-course-section20.netlify.app/)
 
 ### Authentication-page(S22)
 
@@ -124,7 +124,7 @@
 
 ## Code
 
-[code](Code)
+[code](./Code)
 
 ---
 

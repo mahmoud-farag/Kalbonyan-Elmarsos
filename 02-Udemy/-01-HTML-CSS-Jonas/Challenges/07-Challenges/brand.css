@@ -128,5 +128,20 @@ a:link:hover {
 
 /* ******flexbox layout************* */
 /* *********  grid layout ****************** */
-
+.article {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+.shoes {
+  width: 200px;
+  height: 200px;
+}
+.colors {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  width: max-content;
+  grid-template-rows: 1fr;
+}
 /* *********  grid layout ****************** */

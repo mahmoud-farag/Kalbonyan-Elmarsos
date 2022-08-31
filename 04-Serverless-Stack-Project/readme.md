@@ -1,7 +1,8 @@
 # Serverless-Stack-project
 
-[Serverless-Stack-Guide](https://docs.sst.dev/)
-[Project-Live-Demo](https://d2a4k1ofvo8kkw.cloudfront.net/)
+-[Serverless-Stack-Guide](https://docs.sst.dev/)
+<br>
+-[Project-Live-Demo](https://d2a4k1ofvo8kkw.cloudfront.net/)
 
 ## Project
 
